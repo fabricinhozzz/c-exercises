@@ -1,5 +1,5 @@
 # Prática de C
-Estou reestudando a linguagem C, para ir depois para C++. 
+Estou reestudando a linguagem C, pra depois estudar C++. 
 Juntamente com os estudos da teoria de Organização e 
 Arquitetura de Computadores.
 
