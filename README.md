@@ -8,17 +8,17 @@ para os desafios propostos pelo site
 [w3resource](https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php#google_vignette).
 
 Enquanto faço os exercícios, sigo estudando C seguindo 
-o RoadMap feito no repositório do @Koubae, o 
-[Programming-CookBook](https://github.com/Koubae/Programming-CookBook/tree/master/Programming%20Languages).
+o clássico `The C Programming Language`, das lendas 
+Brian Kernighan e Dennis Ritchie.
 
 <br>
 
 ## Exercícios
-- Basic 1 e 2
-- Basic Algorithm
-- Variable Type
-- I/O
-- Conditional Statements
-- Loops
-- DSA
-- Functions
+- Basic 1
+- Basic 2
+
+<br>
+
+## Off Topic
+Adicionei scripts em .sh pra mover os arquivos 
+.c e os executáveis pras suas respectivas pastas.
